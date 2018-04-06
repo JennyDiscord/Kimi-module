@@ -1,2 +1,2 @@
 def ex(data):
-    print (data)
+    print(data)
